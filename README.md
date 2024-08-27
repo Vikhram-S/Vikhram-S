@@ -17,7 +17,7 @@ I am an enthusiastic and dedicated individual with a strong interest in data vis
 
 ### 💡 Projects:
 - **[ELECTORAL-BOND-ANALYSIS-USING-PYTHON](https://github.com/Vikhram-S/ELECTORAL-BOND-ANALYSIS-USING-PYTHON):** A comprehensive analysis of electoral bonds using Python, focusing on data-driven insights and visualizations.
-- **[Maternal-Health-Risk-Predictor]**(https://github.com/Vikhram-S/Maternal-Health-Risk-Predictor):The Maternal Health Risk Predictor is a machine learning-based system designed to predict the likelihood of health complications in pregnant women. The system uses various health parameters to provide early warnings and recommendations, ensuring timely medical intervention.
+- **[Maternal-Health-Risk-Predictor](https://github.com/Vikhram-S/Maternal-Health-Risk-Predictor)**:The Maternal Health Risk Predictor is a machine learning-based system designed to predict the likelihood of health complications in pregnant women. The system uses various health parameters to provide early warnings and recommendations, ensuring timely medical intervention.
 
 ### 🌐 Let's Connect:
 - **LinkedIn:** (https://www.linkedin.com/in/vikhram-s)
