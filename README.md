@@ -3,6 +3,24 @@
 # 👋 Hello, I'm Vikhram S
 
 ### Aspiring Data Analyst | Currently Pursuing ECE @ Saveetha Engineering College
+# My GitHub Profile
+
+[![GitHub stars](https://img.shields.io/github/stars/yourusername?style=social)](https://github.com/yourusername?tab=stars)
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername?tab=followers)
+[![GitHub visitors](https://komarev.com/ghpvc/?username=yourusername)](https://github.com/yourusername)
+
+[![GitHub commits](https://img.shields.io/github/commit-activity/m/yourusername?style=flat-square)](https://github.com/yourusername)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername?style=flat-square)](https://github.com/yourusername?tab=pulls)
+[![GitHub issues](https://img.shields.io/github/issues/yourusername?style=flat-square)](https://github.com/yourusername?tab=issues)
+[![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/yourrepository?style=flat-square)](https://github.com/yourusername/yourrepository)
+
+[![GitHub language count](https://img.shields.io/github/languages/count/yourusername/yourrepository?style=flat-square)](https://github.com/yourusername/yourrepository)
+[![GitHub top language](https://img.shields.io/github/languages/top/yourusername/yourrepository?style=flat-square)](https://github.com/yourusername/yourrepository)
+[![GitHub license](https://img.shields.io/github/license/yourusername/yourrepository?style=flat-square)](https://github.com/yourusername/yourrepository)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/yourrepository?style=flat-square)](https://github.com/yourusername/yourrepository)
+[![GitHub contributors](https://img.shields.io/github/contributors/yourusername/yourrepository?style=flat-square)](https://github.com/yourusername/yourrepository/graphs/contributors)
+
  
 I am an enthusiastic and dedicated individual with a strong interest in data visualization and general artificial intelligence. My academic journey in Electronics and Communication Engineering has equipped me with a solid foundation in both theoretical and practical aspects of engineering, while my passion for data analysis and visualization drives my continuous learning and professional growth.
 
