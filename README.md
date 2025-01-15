@@ -14,12 +14,12 @@
 [![GitHub issues](https://img.shields.io/github/issues/yourusername?style=flat-square)](https://github.com/Vikhram-S?tab=issues)
 [![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/yourrepository?style=flat-square)](https://github.com/Vikhram-S/Vikhram-S)
 
-[![GitHub language count](https://img.shields.io/github/languages/count/yourusername/yourrepository?style=flat-square)](https://github.com/yourusername/yourrepository)
-[![GitHub top language](https://img.shields.io/github/languages/top/yourusername/yourrepository?style=flat-square)](https://github.com/yourusername/yourrepository)
-[![GitHub license](https://img.shields.io/github/license/yourusername/yourrepository?style=flat-square)](https://github.com/yourusername/yourrepository)
+[![GitHub language count](https://img.shields.io/github/languages/count/Vikhram-S?style=flat-square)](https://github.com/Vikhram-S)
+[![GitHub top language](https://img.shields.io/github/languages/top/Vikhram-S?style=flat-square)](https://github.com/Vikhram-S)
+[![GitHub license](https://img.shields.io/github/license/Vikhram-S?style=flat-square)](https://github.com/Vikhram-S)
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/yourrepository?style=flat-square)](https://github.com/yourusername/yourrepository)
-[![GitHub contributors](https://img.shields.io/github/contributors/yourusername/yourrepository?style=flat-square)](https://github.com/yourusername/yourrepository/graphs/contributors)
+[![GitHub last commit](https://img.shields.io/github/last-commit/Vikhram-S?style=flat-square)](https://github.com/Vikhram-S)
+[![GitHub contributors](https://img.shields.io/github/contributors/Vikhram-S?style=flat-square)](https://github.com/Vikhram-S/graphs/contributors)
 
  
 I am an enthusiastic and dedicated individual with a strong interest in data visualization and general artificial intelligence. My academic journey in Electronics and Communication Engineering has equipped me with a solid foundation in both theoretical and practical aspects of engineering, while my passion for data analysis and visualization drives my continuous learning and professional growth.
