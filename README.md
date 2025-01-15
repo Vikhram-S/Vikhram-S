@@ -5,23 +5,10 @@
 ### Aspiring Data Analyst | Currently Pursuing ECE @ Saveetha Engineering College
 # My GitHub Profile
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername?style=social)](https://github.com/Vikhram-S?tab=stars)
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/Vikhram-S?tab=followers)
-[![GitHub visitors](https://komarev.com/ghpvc/?username=yourusername)](https://github.com/Vikhram-S)
+[![GitHub stars](https://img.shields.io/github/stars/Vikhram-S?style=social)](https://github.com/Vikhram-S?tab=stars)
+[![GitHub followers](https://img.shields.io/github/followers/Vikhram-S?style=social)](https://github.com/Vikhram-S?tab=followers)
+[![GitHub visitors](https://komarev.com/ghpvc/?username=Vikhram-S)](https://github.com/Vikhram-S)
 
-[![GitHub commits](https://img.shields.io/github/commit-activity/m/yourusername?style=flat-square)](https://github.com/Vikhram-S)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername?style=flat-square)](https://github.com/Vikhrams-S?tab=pulls)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername?style=flat-square)](https://github.com/Vikhram-S?tab=issues)
-[![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/yourrepository?style=flat-square)](https://github.com/Vikhram-S/Vikhram-S)
-
-[![GitHub language count](https://img.shields.io/github/languages/count/Vikhram-S?style=flat-square)](https://github.com/Vikhram-S)
-[![GitHub top language](https://img.shields.io/github/languages/top/Vikhram-S?style=flat-square)](https://github.com/Vikhram-S)
-[![GitHub license](https://img.shields.io/github/license/Vikhram-S?style=flat-square)](https://github.com/Vikhram-S)
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/Vikhram-S?style=flat-square)](https://github.com/Vikhram-S)
-[![GitHub contributors](https://img.shields.io/github/contributors/Vikhram-S?style=flat-square)](https://github.com/Vikhram-S/graphs/contributors)
-
- 
 I am an enthusiastic and dedicated individual with a strong interest in data visualization and general artificial intelligence. My academic journey in Electronics and Communication Engineering has equipped me with a solid foundation in both theoretical and practical aspects of engineering, while my passion for data analysis and visualization drives my continuous learning and professional growth.
 
 ### 🚀 Skills and Interests:
