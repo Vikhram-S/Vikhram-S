@@ -1,36 +1,39 @@
-## Hi there 👋
+<p align="center">
+    <img src="Data_Science_Header.gif" alt="Header GIF">
+</p>
+<h1 align="center">Hi 👋, I'm Vikhram S</h1>
+<h3 align="center">An aspiring Data Analyst currently pursuing Electronics and Communication Engineering at Saveetha Engineering College, with a predilection for Data Visualization, Generative AI, Data Analytics, and Geopolitics.</h3>
 
-# 👋 Hello, I'm Vikhram S
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vikhram-S&label=Profile%20views&color=0e75b6&style=flat" alt="Vikhram-S" /> </p>
 
-### Aspiring Data Analyst | Currently Pursuing ECE @ Saveetha Engineering College
-# My GitHub Profile
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vikhram-S" alt="Vikhram-S" /></a> </p>
 
-[![GitHub stars](https://img.shields.io/github/stars/Vikhram-S?style=social)](https://github.com/Vikhram-S?tab=stars)
-[![GitHub followers](https://img.shields.io/github/followers/Vikhram-S?style=social)](https://github.com/Vikhram-S?tab=followers)
-[![GitHub visitors](https://komarev.com/ghpvc/?username=Vikhram-S)](https://github.com/Vikhram-S)
+- 🔭 I am currently focused on **Data Visualization, Generative AI, Data Analytics, and Geopolitics.**
 
-I am an enthusiastic and dedicated individual with a strong interest in data visualization and general artificial intelligence. My academic journey in Electronics and Communication Engineering has equipped me with a solid foundation in both theoretical and practical aspects of engineering, while my passion for data analysis and visualization drives my continuous learning and professional growth.
+- 🌱 I’m currently learning **Augmented Analytics by IBM.**
 
-### 🚀 Skills and Interests:
-- **Data Analysis:** Proficient in data manipulation, cleaning, and analysis using tools like Python and R.
-- **Data Visualization:** Adept at creating insightful and impactful visualizations using libraries such as Matplotlib, Seaborn, and Plotly.
-- **Generative AI:** Exploring the vast potentials of artificial intelligence and its applications.
-- **Technical Proficiency:** Hands-on experience with tools and technologies such as SQL, Excel, and Tableau.
+- 👨‍💻 All of my projects are available at [https://github.com/Vikhram-S?tab=repositories](https://github.com/Vikhram-S?tab=repositories)
 
-### 🎓 Current Role:
-- **Campus Ambassador @ MyGov India:** Proudly representing and promoting initiatives, engaging with the student community, and fostering a spirit of collaboration and participation in government projects.
+- 📧 How to reach me **[email protected]**
 
-### 💡 Projects:
-- **[ELECTORAL-BOND-ANALYSIS-USING-PYTHON](https://github.com/Vikhram-S/ELECTORAL-BOND-ANALYSIS-USING-PYTHON) :** A comprehensive analysis of electoral bonds using Python, focusing on data-driven insights and visualizations.
-- **[Maternal-Health-Risk-Predictor](https://github.com/Vikhram-S/Maternal-Health-Risk-Predictor)**: The Maternal Health Risk Predictor is a machine learning-based system designed to predict the likelihood of health complications in pregnant women. The system uses various health parameters to provide early warnings and recommendations, ensuring timely medical intervention.
+- 📄 Know about my experiences [https://shorturl.at/iXH2V](https://shorturl.at/iXH2V)
 
-### 🌐 Let's Connect:
-- **LinkedIn:** (https://www.linkedin.com/in/vikhram-s)
-- **Twitter:** [@VikhramSOffl](https://twitter.com/VikhramSOffl)
-- **Email:** [vikhrams@saveetha.ac.in](mailto:vikhrams@saveetha.ac.in)
+- ⚡ Fun fact **Data scientists spend 80% of their time cleaning data and the other 20% complaining about cleaning data.**
 
-I'm always eager to collaborate on interesting projects and connect with like-minded individuals. Feel free to reach out!
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://x.com/VikhramSOffl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="VikhramS_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/your_linkedin_username/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your_linkedin_username" height="30" width="40" /></a>
+<a href="https://www.instagram.com/your_instagram_username/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your_instagram_username" height="30" width="40" /></a>
+</p>
 
----
-
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://scikit-learn.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-notext.png" alt="scikit-learn" width="40" height="40"/> </a> 
+<a href="https://jupyter.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a>
+<a href="https://streamlit.io" target="_blank" rel="noreferrer"> <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="streamlit" width="40" height="40"/> </a>
+<a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> </a>
+<a href="https://tableau.com" target="_blank" rel="noreferrer"> <img src="https://www.tableau.com/sites/default/files/2021-05/tableau_social_card_0.png" alt="tableau" width="40" height="40"/> </a>
+<a href="https://scilab.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Scilab_Logo.png" alt="scilab" width="40" height="40"/> </a>
+</p>
