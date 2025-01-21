@@ -64,6 +64,10 @@
 <a href="https://pytorch.org" target="_blank" rel="noreferrer"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="pytorch" width="80" height="80"/> 
 </a>
+<a href="https://colab.research.google.com" target="_blank" rel="noreferrer">
+  <img class="navbar-brand" src="https://colab.research.google.com/img/colab_favicon_32px.png" alt="colab" width="40" height="30">
+</a>
+
 
 
 
