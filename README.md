@@ -47,10 +47,10 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> 
 </a>
 <a href="https://www.tableau.com" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.svg" alt="tableau" width="40" height="40"/> 
+  <img src="https://public.tableau.com/app/assets/tableau-icon.png" alt="tableau" width="40" height="40"/> 
 </a>
 <a href="https://www.scilab.org" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Scilab_logo_with_text.svg" alt="scilab" width="40" height="40"/> 
+  <img src="https://www.scilab.org/sites/default/files/inline-images/scilab-logo.png" alt="scilab" width="40" height="40"/> 
 </a>
 
 
