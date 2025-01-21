@@ -52,6 +52,28 @@
 <a href="https://www.scilab.org" target="_blank" rel="noreferrer"> 
   <img src="https://www.scilab.org/sites/default/files/inline-images/scilab-logo.png" alt="scilab" width="40" height="30"/> 
 </a>
+<a href="https://numpy.org" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="30"/> 
+</a>
+<a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="30"/> 
+</a>
+<a href="https://matplotlib.org" target="_blank" rel="noreferrer"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="30"/> 
+</a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="30"/> 
+</a>
+<a href="https://pytorch.org" target="_blank" rel="noreferrer"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="pytorch" width="40" height="30"/> 
+</a>
+<a href="https://gradio.app" target="_blank" rel="noreferrer"> 
+  <img src="https://gradio.app/assets/img/gradio-logo.svg" alt="gradio" width="40" height="30"/> 
+</a>
+<a href="https://plotly.com" target="_blank" rel="noreferrer"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Plotly_logo.svg" alt="plotly" width="40" height="30"/> 
+</a>
+
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vikhram-S&show_icons=true&locale=en" alt="Vikhram-S" /></p>
