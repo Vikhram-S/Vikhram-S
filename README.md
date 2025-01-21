@@ -16,8 +16,6 @@
 
 - 📧 How to reach me **vikhrams@saveetha.ac.in**
 
-- 📄 Know about my experiences [https://shorturl.at/iXH2V](https://shorturl.at/iXH2V)
-
 - ⚡ Fun fact **Data scientists spend 80% of their time cleaning data and the other 20% complaining about cleaning data.**
 
 <h3 align="left">Connect with me:</h3>
