@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vikhram-S?tab=repositories](https://github.com/Vikhram-S?tab=repositories)
 
-- 📧 How to reach me **[email protected]**
+- 📧 How to reach me **vikhrams@saveetha.ac.in**
 
 - 📄 Know about my experiences [https://shorturl.at/iXH2V](https://shorturl.at/iXH2V)
 
@@ -36,4 +36,5 @@
 <a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> </a>
 <a href="https://tableau.com" target="_blank" rel="noreferrer"> <img src="https://www.tableau.com/sites/default/files/2021-05/tableau_social_card_0.png" alt="tableau" width="40" height="40"/> </a>
 <a href="https://scilab.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Scilab_Logo.png" alt="scilab" width="40" height="40"/> </a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vikhram-S&show_icons=true&locale=en" alt="Vikhram-S" /></p>
 </p>
