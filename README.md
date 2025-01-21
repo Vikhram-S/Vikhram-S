@@ -44,10 +44,10 @@
   <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="streamlit" width="80" height="80"/> 
 </a>
 <a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="800" height="80"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="80" height="80"/> 
 </a>
 <a href="https://www.tableau.com" target="_blank" rel="noreferrer"> 
-  <img src="https://www.tableau.com/themes/custom/tableau_www/logo.v2.svg" alt="tableau" width="800" height="80"/> 
+  <img src="https://www.tableau.com/themes/custom/tableau_www/logo.v2.svg" alt="tableau" width="80" height="80"/> 
 </a>
 <a href="https://numpy.org" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="80" height="80"/> 
