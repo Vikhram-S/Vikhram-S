@@ -58,18 +58,13 @@
 <a href="https://matplotlib.org" target="_blank" rel="noreferrer"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="80" height="80"/> 
 </a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="80" height="80"/>
+</a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="80" height="80"/> 
 </a>
 <a href="https://pytorch.org" target="_blank" rel="noreferrer"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="pytorch" width="80" height="80"/> 
 </a>
-<a href="https://colab.research.google.com" target="_blank" rel="noreferrer">
-  <img class="navbar-brand" src="https://colab.research.google.com/img/colab_favicon_32px.png" alt="colab" width="40" height="30">
-</a>
-
-
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vikhram-S&show_icons=true&locale=en" alt="Vikhram-S" /></p>
 </p>
