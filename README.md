@@ -28,13 +28,31 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://scikit-learn.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-notext.png" alt="scikit-learn" width="40" height="40"/> </a> 
-<a href="https://jupyter.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a>
-<a href="https://streamlit.io" target="_blank" rel="noreferrer"> <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="streamlit" width="40" height="40"/> </a>
-<a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> </a>
-<a href="https://tableau.com" target="_blank" rel="noreferrer"> <img src="https://www.tableau.com/sites/default/files/2021-05/tableau_social_card_0.png" alt="tableau" width="40" height="40"/> </a>
-<a href="https://scilab.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Scilab_Logo.png" alt="scilab" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+</a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+</a>
+<a href="https://scikit-learn.org" target="_blank" rel="noreferrer"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/> 
+</a>
+<a href="https://jupyter.org" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> 
+</a>
+<a href="https://streamlit.io" target="_blank" rel="noreferrer"> 
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="streamlit" width="40" height="40"/> 
+</a>
+<a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> 
+</a>
+<a href="https://www.tableau.com" target="_blank" rel="noreferrer"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.svg" alt="tableau" width="40" height="40"/> 
+</a>
+<a href="https://www.scilab.org" target="_blank" rel="noreferrer"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Scilab_logo_with_text.svg" alt="scilab" width="40" height="40"/> 
+</a>
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vikhram-S&show_icons=true&locale=en" alt="Vikhram-S" /></p>
 </p>
