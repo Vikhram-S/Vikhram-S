@@ -29,29 +29,28 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="30"/> 
 </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="30"/> 
 </a>
 <a href="https://scikit-learn.org" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="30"/> 
 </a>
 <a href="https://jupyter.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="30"/> 
 </a>
 <a href="https://streamlit.io" target="_blank" rel="noreferrer"> 
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="streamlit" width="40" height="40"/> 
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="streamlit" width="40" height="30"/> 
 </a>
 <a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="30"/> 
 </a>
-<a href="https://tableau.com" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" alt="tableau" width="40" height="40"/> 
+<a href="https://www.tableau.com" target="_blank" rel="noreferrer"> 
+  <img src="https://www.tableau.com/themes/custom/tableau_www/logo.v2.svg" alt="tableau" width="40" height="30"/> 
 </a>
-
 <a href="https://www.scilab.org" target="_blank" rel="noreferrer"> 
-  <img src="https://www.scilab.org/sites/default/files/inline-images/scilab-logo.png" alt="scilab" width="40" height="40"/> 
+  <img src="https://www.scilab.org/sites/default/files/inline-images/scilab-logo.png" alt="scilab" width="40" height="30"/> 
 </a>
 
 
