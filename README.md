@@ -49,9 +49,6 @@
 <a href="https://www.tableau.com" target="_blank" rel="noreferrer"> 
   <img src="https://www.tableau.com/themes/custom/tableau_www/logo.v2.svg" alt="tableau" width="40" height="30"/> 
 </a>
-<a href="https://www.scilab.org" target="_blank" rel="noreferrer"> 
-  <img src="/themes/bs43ds/img/scilab-logo.png?v20201103"alt="scilab" width="40" height="30"/> 
-</a>
 <a href="https://numpy.org" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="30"/> 
 </a>
@@ -67,11 +64,6 @@
 <a href="https://pytorch.org" target="_blank" rel="noreferrer"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="pytorch" width="40" height="30"/> 
 </a>
-<a href="https://gradio.app" target="_blank" rel="noreferrer"> 
-  <img src="https://gradio.app/assets/img/gradio-logo.svg" alt="gradio" width="40" height="30"/> 
-</a>
-<a href="https://plotly.com" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Plotly_logo.svg" alt="plotly" width="40" height="30"/> 
 
 
 
