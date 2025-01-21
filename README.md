@@ -46,9 +46,10 @@
 <a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> 
 </a>
-<a href="https://www.tableau.com" target="_blank" rel="noreferrer"> 
-  <img src="https://public.tableau.com/app/assets/tableau-icon.png" alt="tableau" width="40" height="40"/> 
+<a href="https://tableau.com" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" alt="tableau" width="40" height="40"/> 
 </a>
+
 <a href="https://www.scilab.org" target="_blank" rel="noreferrer"> 
   <img src="https://www.scilab.org/sites/default/files/inline-images/scilab-logo.png" alt="scilab" width="40" height="40"/> 
 </a>
