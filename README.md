@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vikhram-S?tab=repositories](https://github.com/Vikhram-S?tab=repositories)
 
-- 📧 How to reach me **vikhrams@saveetha.ac.in**
+- How to reach me **vikhrams@saveetha.ac.in**
 
 - ⚡ Fun fact **Data scientists spend 80% of their time cleaning data and the other 20% complaining about cleaning data.**
 
