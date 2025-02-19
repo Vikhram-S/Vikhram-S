@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vikhram-S" alt="Vikhram-S" /></a> </p>
 
-- 🔭 I am currently focused on **Machine Learning ,Data Science, Generative AI, Big Data Analytics, NLP, Deep Learning, Business Analytics,RAG**
+- 🔭 I am currently focused on **Machine Learning ,Data Science, Generative AI, Big Data Analytics, NLP, Deep Learning, Business Analytics, RAG**
 
 - 🌱 I’m currently learning **Agentic AI , AGI**
 
-- I'm Interested in **AI in Governance, Policy Making , Political Data Analysis , Economic Data Analysis , International Relations , Sustainable Development Goal**
+- I'm Interested in **AI in Governance, Policy Making , Political Data Analysis , Economic Data Analysis , International Relations , Sustainable Development Goals**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vikhram-S?tab=repositories](https://github.com/Vikhram-S?tab=repositories)
 
