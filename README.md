@@ -2,13 +2,13 @@
     <img src="Data_Science_Header.gif" alt="Header GIF">
 </p>
 <h1 align="center">Hi 👋, I'm Vikhram S</h1>
-<h3 align="center">An aspiring Data Analyst currently pursuing Electronics and Communication Engineering at Saveetha Engineering College, with a predilection for Data Visualization, Generative AI, Data Analytics, and Geopolitics.</h3>
+<h3 align="center">An aspiring Data Scientist currently pursuing Electronics and Communication Engineering at Saveetha Engineering College, with a predilection for Data Visualization, Generative AI, Data Analytics, and Geopolitics.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vikhram-S&label=Profile%20views&color=0e75b6&style=flat" alt="Vikhram-S" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vikhram-S" alt="Vikhram-S" /></a> </p>
 
-- 🔭 I am currently focused on **Data Visualization, Generative AI, Data Analytics, and Geopolitics.**
+- 🔭 I am currently focused on **Data Science, Generative AI, Big Data Analytics, NLP, Deep Learning, Business Analytics,RAG**
 
 - 🌱 I’m currently learning **Augmented Analytics by IBM.**
 
