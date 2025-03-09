@@ -18,7 +18,7 @@
 
 - How to reach me **vikhrams@saveetha.ac.in**
 
-- ⚡ Fun fact **Training a Large Language Model (LLM) is like a relationship between a girl and a boy—it takes time, patience, and constant feedback. If one overfits to past mistakes, the other might just stop responding!**
+- ⚡ Fun fact **Training a Large Language Model (LLM) is like a relationship between a girl and a boy it takes time, patience, and constant feedback. If one overfits to past mistakes, the other might just stop responding!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
