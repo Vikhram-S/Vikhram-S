@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vikhram-S&label=Profile%20views&color=0e75b6&style=flat" alt="Vikhram-S" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vikhram-S" alt="Vikhram-S" /></a> </p>
-
 - 🔭 I am currently focused on **Machine Learning ,Data Science, Generative AI, Big Data Analytics, NLP, Deep Learning, Business Analytics, RAG**
 
 - 🌱 I’m currently learning **Agentic AI , AGI**
