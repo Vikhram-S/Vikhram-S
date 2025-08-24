@@ -2,7 +2,7 @@
     <img src="Data_Science_Header.gif" alt="Header GIF">
 </p>
 <h1 align="center">Hi 👋, I'm Vikhram S</h1>
-<h3 align="center">An aspiring Data Scientist currently pursuing Electronics and Communication Engineering at Saveetha Engineering College, with a predilection for Data Visualization, Generative AI, Data Analytics, and Geopolitics.</h3>
+<h3 align="center">AI & ML Innovator | Advisor, Tech Society | Campus Ambassador, MyGov India | Predilection for Driving Innovation in Deep Learning, NLP & Next‑Gen Technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vikhram-S&label=Profile%20views&color=0e75b6&style=flat" alt="Vikhram-S" /> </p>
 
