@@ -17,6 +17,12 @@
 - How to reach me **vikhrams@saveetha.ac.in**
 
 - ⚡ Fun fact **Training a Large Language Model (LLM) is like a relationship between a girl and a boy it takes time, patience, and constant feedback. If one overfits to past mistakes, the other might just stop responding!**
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Vikhram-S&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vikhram-S&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -67,5 +73,3 @@
 </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/>
 </a>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vikhram-S&show_icons=true&locale=en" alt="Vikhram-S" /></p>
-</p>
