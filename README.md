@@ -1,5 +1,3 @@
-<p align="center">
-    <img src="Data_Science_Header.gif" alt="Header GIF">
 </p>
 <h1 align="center">Hi 👋, I'm Vikhram S</h1>
 <h3 align="center">AI & ML Innovator | Advisor, Tech Society | Campus Ambassador, MyGov India | Predilection for Driving Innovation in Deep Learning, NLP & Next‑Gen Technologies.</h3>
@@ -32,44 +30,10 @@
 <a href="https://www.instagram.com/vikhrams_official/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vikhrams_official" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/> 
-</a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="80" height="80"/> 
-</a>
-<a href="https://scikit-learn.org" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="80" height="80"/> 
-</a>
-<a href="https://jupyter.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="80" height="80"/> 
-</a>
-<a href="https://streamlit.io" target="_blank" rel="noreferrer"> 
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="streamlit" width="80" height="80"/> 
-</a>
-<a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="80" height="80"/> 
-</a>
-<a href="https://www.tableau.com" target="_blank" rel="noreferrer"> 
-  <img src="https://www.tableau.com/themes/custom/tableau_www/logo.v2.svg" alt="tableau" width="80" height="80"/> 
-</a>
-<a href="https://numpy.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="80" height="80"/> 
-</a>
-<a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="80" height="80"/> 
-</a>
-<a href="https://matplotlib.org" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="80" height="80"/> 
-</a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="80" height="80"/>
-</a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="80" height="80"/> 
-</a>
-<a href="https://pytorch.org" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="pytorch" width="80" height="80"/> 
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/>
-</a>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=Vikhram-S&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vikhram-S&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
+[![](https://visitcount.itsvg.in/api?id=Vikhram-S&icon=0&color=0)](https://visitcount.itsvg.in)
