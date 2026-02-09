@@ -1,6 +1,6 @@
 </p>
 <h1 align="center">Hi 👋, I'm Vikhram S</h1>
-<h3 align="center">AI & ML Innovator | Advisor, Tech Society | Campus Ambassador, MyGov India | Predilection for Driving Innovation in Deep Learning, NLP & Next‑Gen Technologies.</h3>
+<h3 align="center">AI Researcher | Vision–Language Models | Explainable AI | NLP | Author and Maintainer Open-Source NLP Python Library (21K+).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vikhram-S&label=Profile%20views&color=0e75b6&style=flat" alt="Vikhram-S" /> </p>
 
