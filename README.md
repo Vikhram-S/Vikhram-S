@@ -69,12 +69,8 @@ NumPy • Pandas • OpenCV
 
 ## Contact
 
-- Email: vikhramselvacumaran@gmail.com  
+- Email: vikhrams@saveetha.ac.in 
 - Open to research collaborations and applied AI system development  
 
 ---
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Vikhram-S&show_icons=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vikhram-S&layout=compact" height="160"/>
-</p>
