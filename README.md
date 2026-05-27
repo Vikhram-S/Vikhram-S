@@ -37,7 +37,7 @@ Current directions include:
 ### IndianConstitution — NLP System for Legal Intelligence
 - Developed a **retrieval-based NLP system** for querying constitutional documents  
 - Implemented semantic search pipelines for structured legal access  
-- Achieved **26K+ downloads**, indicating real-world adoption  
+- Achieved **30K+ downloads**, indicating real-world adoption  
 
 ---
 
