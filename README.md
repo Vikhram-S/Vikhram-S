@@ -72,7 +72,7 @@ NumPy • Pandas • OpenCV
 ## Contact
 
 - Email: vikhrams@saveetha.ac.in
-- Full CV, publications, and talks: [vikhram.me](https://vikhram.me)
+- Full CV, publications, and talks: [https://vikhram-s.github.io](https://vikhram-s.github.io)
 - Open to research collaborations and applied AI system development
 
 ---
