@@ -1,78 +1,164 @@
-<h1 align="center">Vikhram S</h1>
-<p align="center">
-AI Systems Researcher • Vision–Language Models • Explainable AI • Domain-Specific NLP
-</p>
+<div align="center">
 
-<p align="center">
-<a href="https://vikhram.me">Website</a> •
-<a href="https://github.com/Vikhram-S">GitHub</a> •
-<a href="https://huggingface.co/Vikhram-S">Hugging Face</a> •
-<a href="https://scholar.google.com/citations?user=L2y8aqgAAAAJ">Google Scholar</a> •
-<a href="https://www.scopus.com/authid/detail.uri?authorId=60727105300">Scopus</a> •
-<a href="https://orcid.org/0009-0002-5300-7591">ORCID</a> •
-<a href="https://linkedin.com/in/vikhram-s">LinkedIn</a>
-</p>
+<img src="https://avatars.githubusercontent.com/u/146576573?v=4" width="120" style="border-radius:50%" alt="Vikhram S"/>
 
----
+# Vikhram S
+
+### AI Researcher — Multimodal Intelligence · Vision–Language Models · Explainable AI
+
+<a href="https://vikhram-s.github.io/"><img src="https://img.shields.io/badge/Website-vikhram--s.github.io-000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://scholar.google.com/citations?user=L2y8aqgAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
+<a href="https://orcid.org/0009-0002-5300-7591"><img src="https://img.shields.io/badge/ORCID-0009--0002--5300--7591-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/vikhram-s"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://huggingface.co/Vikhram-S"><img src="https://img.shields.io/badge/Hugging_Face-Models-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
+
+<br/>
+
+*Working on multimodal intelligence, vision–language models, and explainable ML — applied to medicine, law, and public safety.*
+
+</div>
+
+<br/>
 
 ## Research Focus
 
-I work on **multi-modal AI systems** with an emphasis on **vision–language models, explainability, and deployable AI architectures**.
-My work explores how **small language models and structured pipelines** can be combined to build **interpretable, domain-specific AI systems** for real-world use.
+I build **interpretable, domain-specific AI systems**, combining small language models with structured pipelines so that model outputs stay traceable in high-stakes settings.
 
-Current directions include:
-- Multi-modal reasoning systems (vision + language)
-- Explainable AI for high-stakes domains (healthcare, governance)
-- Retrieval-augmented and hybrid AI architectures
-- Offline and resource-constrained LLM systems
+```
+├── Vision–Language Models        →  multimodal reasoning across image + text
+├── Explainable AI                →  attention / gradient-based traceability
+├── Retrieval-Augmented Systems   →  hybrid, domain-grounded architectures
+└── Resource-Constrained AI       →  offline, deployable inference pipelines
+```
 
----
+<br/>
 
-## Selected Work
+## Recognition
 
-### ExplainableVLM-Rad — Multi-Modal Scientific Reasoning System
-- Designed a **ViT + BioGPT pipeline** for radiology report generation
-- Built structured generation for clinical findings and impressions
-- Integrated **attention and gradient-based explainability** for traceable outputs
-- Developed a modular inference system and deployed on Hugging Face
+<table>
+<tr>
+<td width="70">📄</td>
+<td>
+<strong><a href="https://doi.org/10.1007/978-3-032-30310-3_49">Explainable SLM-Guided Vision–Language Model for Multi-class Skin Lesion Recognition</a></strong><br/>
+<sub>Springer, Lecture Notes in Networks and Systems — ICICC 2026 · Recognized in the top 15% of papers reviewed</sub>
+</td>
+</tr>
+<tr>
+<td>🏛️</td>
+<td>
+<strong><a href="https://india.un.org/en/311003-real-world-impact-ai-and-gender-empowerment">NariRaksha: Gender-Responsive AI for Women's Safety</a></strong><br/>
+<sub>India AI Impact Summit 2026 Compendium — MeitY × UN Women · 1 of 23 case studies selected from 235+ submissions</sub>
+</td>
+</tr>
+<tr>
+<td>📦</td>
+<td>
+<strong><a href="https://pypi.org/project/IndianConstitution/">IndianConstitution</a></strong> — open-source legal NLP package<br/>
+<sub>
 
-### IndianConstitution — NLP System for Legal Intelligence
-- Developed a **retrieval-based NLP system** for querying constitutional documents
-- Implemented semantic search pipelines for structured legal access
-- Achieved **31,000+ downloads** on PyPI, indicating real-world adoption
+<img src="https://img.shields.io/pypi/dm/IndianConstitution?label=downloads/month&color=blue" /> <img src="https://static.pepy.tech/badge/IndianConstitution" />
 
----
+</sub>
+</td>
+</tr>
+</table>
 
-## Publications & Writing
+<br/>
 
-- **Explainable SLM-Guided Vision–Language Model for Multi-Class Skin Lesion Recognition**
-  *ICICC 2026, Springer Lecture Notes in Networks and Systems (LNNS)* — indexed in Scopus; Web of Science indexing in process. Recognized among the top 15% of papers reviewed.
+## Selected Systems
 
-- **NariRaksha: Gender-Responsive AI for Women's Safety**
-  *India AI Impact Summit 2026 Compendium (MeitY + UN Women)* — selected as 1 of 23 global case studies from over 235 submissions.
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+**[ExplainableVLM-Rad](https://github.com/Vikhram-S/explainable-vlm-rad-system)**
+Multi-modal radiology reasoning system
 
-## Technical Stack
+- ViT + BioGPT pipeline for structured report generation
+- Attention/gradient-based explainability for traceable clinical outputs
+- Modular inference, deployed on Hugging Face Spaces
 
-**Core Areas**
-Multi-Modal AI • LLM Systems • Explainable AI • Retrieval-Augmented Generation
+`PyTorch` `Transformers` `OpenCV`
 
-**Frameworks & Tools**
-PyTorch • TensorFlow • Hugging Face • Transformers • LangChain • LlamaIndex
+</td>
+<td width="50%" valign="top">
 
-**Systems & Deployment**
-Model inference pipelines • Hugging Face Spaces • Modular AI system design
+**[IndianConstitution](https://github.com/Vikhram-S/IndianConstitution)**
+Retrieval-based legal NLP system
 
-**Data & Processing**
-NumPy • Pandas • OpenCV
+- Semantic search over constitutional documents
+- Structured legal query access
+- 30,000+ cumulative PyPI downloads
 
----
+`Python` `NLP` `Semantic Search`
 
-## Contact
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-- Email: vikhrams@saveetha.ac.in
-- Full CV, publications, and talks: [https://vikhram-s.github.io](https://vikhram-s.github.io)
-- Open to research collaborations and applied AI system development
+**[Procurement-AI-Agent](https://github.com/Vikhram-S/Procurement-AI-Agent)**
+Autonomous agent for healthcare supply chains
 
----
+- Analyzes hospital purchase orders and vendor pricing
+- Cross-references live inventory data
+- Agentic decision pipeline
+
+`Python` `LangChain` `Agents`
+
+</td>
+<td width="50%" valign="top">
+
+**[Rag-Voice-Bot](https://github.com/Vikhram-S/Rag-Voice-Bot)**
+Retrieval-augmented conversational system
+
+- Voice-interfaced RAG pipeline
+- Hybrid retrieval + generation architecture
+
+`Python` `RAG` `LlamaIndex`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Stack
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+
+</div>
+
+<br/>
+
+## Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Vikhram-S&show_icons=true&theme=default&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikhram-S&layout=compact&hide_border=true" />
+
+</div>
+
+<br/>
+
+## Get in Touch
+
+I'm open to research collaborations in multimodal AI, explainable ML, and applied AI systems for medicine, law, and public safety.
+
+<div align="center">
+
+📧 &nbsp;[vikhramselvacumaran@gmail.com](mailto:vikhramselvacumaran@gmail.com) &nbsp;·&nbsp;
+🌐 &nbsp;[Full CV & Publications](https://vikhram-s.github.io/cv) &nbsp;·&nbsp;
+🎓 &nbsp;Saveetha Engineering College, India
+
+</div>
