@@ -148,20 +148,7 @@ Retrieval-augmented conversational system
 <img src="https://img.shields.io/badge/Forks-129%2B-black?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Public%20Repos-92-black?style=for-the-badge&logo=github&logoColor=white"/>
 
-<br/><br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Vikhram-S&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikhram-S&layout=compact&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikhram-S&hide_border=true" />
-
 </div>
-
-<sub>If the stat cards above don't load, it's the third-party host (Vercel/Heroku free tier) being rate-limited, not your data — refresh the page and they'll come back.</sub>
-
-<br/>
 
 ## Get in Touch
 
