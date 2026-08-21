@@ -74,7 +74,7 @@ Invited by the Dean of ICT to lead the institution's ML community. Designed and 
 <tr>
 <td width="50%" valign="top">
 
-**CodePerfect Auditor** &nbsp;<sub>Virtusa · Jatayu Hackathon 2026</sub>
+**CodePerfect Auditor(https://github.com/Vikhram-S/Codeperfectauditor)** &nbsp;<sub>Virtusa · Jatayu Hackathon 2026</sub>
 Production healthcare revenue-integrity system
 
 - Clinical NLP extraction layer over unstructured documentation
