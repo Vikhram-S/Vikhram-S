@@ -162,7 +162,7 @@ Autonomous agent for healthcare supply chains
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Stars-97-black?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Stars-100-black?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Forks-129%2B-black?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Public%20Repos-92-black?style=for-the-badge&logo=github&logoColor=white"/>
 
