@@ -27,7 +27,7 @@
 
 | 📄 Research | 🏆 Recognition | 📦 Adoption | 💼 Industry |
 |:---:|:---:|:---:|:---:|
-| Springer LNNS, top 15% of ICICC 2026 submissions | 1 of 23 global case studies (235+ submissions), MeitY × UN Women | 33,000+ PyPI downloads, IndianConstitution | Shipped via Virtusa's Jatayu Hackathon 2026 (Agentic AI) |
+| Springer LNNS, top 15% of ICICC 2026 submissions | 1 of 23 global case studies (235+ submissions), MeitY × UN Women | 35,000+ PyPI downloads, IndianConstitution | Shipped via Virtusa's Jatayu Hackathon 2026 (Agentic AI) |
 
 </div>
 
@@ -104,7 +104,7 @@ Retrieval-based legal NLP system, distributed on PyPI
 
 - Semantic search over constitutional documents
 - Structured legal query access
-- 33,000+ cumulative downloads
+- 35,000+ cumulative downloads
 
 `Python` `NLP` `Semantic Search`
 
