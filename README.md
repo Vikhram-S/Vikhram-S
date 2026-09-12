@@ -7,8 +7,8 @@
 **Multimodal Intelligence · Vision–Language Models · Explainable AI · Production AI Systems**
 
 <a href="https://vikhram-s.github.io/"><img src="https://img.shields.io/badge/Website-vikhram--s.github.io-000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="https://vikhram-s.github.io/files/Vikhram_S_Resume.pdf"><img src="https://img.shields.io/badge/Resume-AI%2FML%20Engineer-2ea44f?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
 <a href="https://vikhram-s.github.io/files/Vikhram_S_CV.pdf"><img src="https://img.shields.io/badge/CV-AI%2FML%20Reasearcher-2ea44f?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
+<a href="https://vikhram-s.github.io/files/Vikhram_S_Resume.pdf"><img src="https://img.shields.io/badge/Resume-AI%2FML%20Engineer-2ea44f?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
 <a href="https://scholar.google.com/citations?user=L2y8aqgAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/vikhram-s"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://huggingface.co/vikhram-labs"><img src="https://img.shields.io/badge/Hugging_Face-Models-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
