@@ -96,7 +96,7 @@ Open-source infrastructure for structured, programmatic access to the **Constitu
 | 03 | **[SLM-VLM-SkinLesion](https://github.com/Vikhram-S/SLM-VLM-SkinLesion)**                                                                             | Medical Vision–Language AI |
 | 04 | **[CodePerfect Auditor](https://github.com/Vikhram-S/Codeperfectauditor)**                                                                            | Agentic clinical AI        |
 | 05 | **[Procurement-AI-Agent](https://github.com/Vikhram-S/Procurement-AI-Agent)**                                                                         | AI agents                  |
-| 06 | **[Driver Drowsiness Detection](https://github.com/Vikhram-S/Real-Time-Driver-Drowsiness-Detection-Using-OpenCV-Lightweight-Efficient-Alert-System)** | Computer Vision            |
+| 06 | **[Visual Quality Inspector](https://github.com/Vikhram-S/visual-quality-inspector)** | Computer Vision · Quality Intelligence |
 
 ---
 
