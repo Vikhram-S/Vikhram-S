@@ -81,7 +81,7 @@ Open-source infrastructure for structured, programmatic access to the **Constitu
 
 **Total PyPI Downloads**
 
-[![IndianConstitution — Total PyPI Downloads](https://api.pepy.tech/personalized-badge/indianconstitution?period=TOTAL\&units=INTERNATIONAL_SYSTEM\&left_color=grey\&right_color=blue\&left_text=Total%20PyPI%20downloads)](https://pepy.tech/projects/indianconstitution)
+[![PyPI Downloads](https://static.pepy.tech/personalized-badge/indianconstitution?period=total&units=NONE&left_color=BLACK&right_color=BLUE&left_text=downloads)](https://pepy.tech/projects/indianconstitution)
 
 [GitHub](https://github.com/Vikhram-S/IndianConstitution) · [PyPI](https://pypi.org/project/indianconstitution/)
 
